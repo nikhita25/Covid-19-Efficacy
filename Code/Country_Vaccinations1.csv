@@ -1,0 +1,44 @@
+﻿Country,Date,Vaccine,total_vaccinations,"people_vaccinated	",people_fully_vaccinated,total_boosters
+Argentina,12/2/22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V	",110669252,41376166,37878836,31736182
+Austria,12/1/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",20172542,6894948,,6644886
+Belgium,11/28/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech	",29504302,9262734,9165346,11506707
+Bulgaria,11/14/22,"Johnson&Johnson, Oxford/AstraZeneca, Moderna, Pfizer/BioNTech",4588409,2104168,2073773,
+Canada,12/2/22,"Johnson&Johnson, Medicago, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",95251913,34367278,31695059,29189576
+Chile,12/2/22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",62583292,18080462,17692862,27384664
+Cyprus,9/27/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",1794533,669939,645735,478859
+Czechia,12/2/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",18554857,6975798,6891422,5098964
+Croatia,12/2/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",5347342,2320323,2250209,
+Denmark,12/1/22,"Johnson&Johnson, Moderna, Pfizer/BioNTech",13185780,4802680,4767219,3662074
+Ecuador,12/2/22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",39035363,15303829,14197716,10099008
+Estonia,11/28/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",2092520,868225,847771,581901
+Finland,11/23/22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTec",13027929,4523315,4345880,4158734
+France,12/1/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",151861290,54610278,53112013,45220703
+Germany,12/2/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Valneva",189791053,64823644,63509836,63751682
+Hong Kong,11/27/22,"Pfizer/BioNTech, Sinovac",19965995,6899337,6764690,6301968
+Hungary,11/29/22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik ",,6420202,6206565,4295236
+Iceland,3/29/22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",805469,309770,290193,250542
+Ireland,12/1/22,"	Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",11081526,4103340,4055859,3163396
+Italy,12/3/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",142883417,50859482,47973198,45559054
+Japan,12/1/22,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",350831096,104409189,103001366,143420541
+Latvia,7/11/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTe",2895716,1346184,1305976,529562
+Liechtenstein,11/24/22,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",73802,26764,26457,21633
+Lithuania,12/2/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",4534438,1956204,1879686,942864
+Luxembourg,11/26/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",1366421,481858,,451235
+Malta,12/2/22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",1373248,478434,471233,457962
+Nepal,11/29/22,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",59930762,27398529,23857858,8674375
+Netherlands,9/2/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",36104942,12775557,11957652,9417108
+Norway,11/13/22,"Moderna, Pfizer/BioNTech",12145560,4346995,4054726,3743839
+Peru,12/1/22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",86032966,30118752,28359750,27554464
+Poland,12/1/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",57664516,22828328,22601575,15086719
+Portugal,12/2/22,"Covaxin, Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",27442872,9769228,8882402,7003204
+Romania,10/16/22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",,8183574,,
+Slovakia,7/31/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",5754313,2595901,2577827,684026
+Slovenia,7/5/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",2996643,1265802,1222225,657967
+South Africa,12/3/22,"Johnson&Johnson, Pfizer/BioNTech",37988317,22474988,19546272,3851490
+South Korea,12/1/22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",129624071,45131168,44701454,41309393
+Spain,10/13/22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",95804542,41310693,40657640,26000111
+Sweden,11/27/22,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",25185628,7813295,7631000,9444661
+Switzerland,11/28/22,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",16729866,6095349,6011431,4714168
+Ukraine,2/27/22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",31668577,15774300,15153577,741197
+United States,11/29/22,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",655280140,267346533,228369460,
+Uruguay,12/3/22,"Sinovac, Pfizer/BioNTech, Oxford/AstraZeneca",8749078,3002536,2894648,2851894
