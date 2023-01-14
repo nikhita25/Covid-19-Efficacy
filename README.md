@@ -1,1 +1,1 @@
-# Covid-19-Efficacy
+# Covid-19-Vaccine-Efficacy
